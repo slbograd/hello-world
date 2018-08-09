@@ -1,3 +1,3 @@
 # hello-world
 First repository
-I have joined GitHub
+# I have joined GitHub
